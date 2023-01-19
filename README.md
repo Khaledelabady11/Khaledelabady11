@@ -15,4 +15,4 @@
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Khaledelabady11&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![](https://komarev.com/ghpvc/?username=Khaledelabady11&style=flat-square)
