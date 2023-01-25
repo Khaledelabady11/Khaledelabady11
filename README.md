@@ -5,6 +5,8 @@
   <a href="https://www.linkedin.com/in/khaledelabady"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg"></a>
   <a href="https://twitter.com/khaled_elabadyy"><img alt="Twitter" title="Twitter" height="48" width="48" src="assets/twitter.svg"></a>
 </p>
+🌱 I’m currently learning : Ruby , Ruby On Rails , Android Development with Kotlin  
+📫 How to reach me : k7aled.el3bady123@gmail.com
 
 ### :fire: My Stats :
 
