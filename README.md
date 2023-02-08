@@ -7,8 +7,6 @@
 </p>
 
 
-🌱 I’m currently learning : Ruby-Ruby On Rails,Android Development with Kotlin.
-
 
 ### :fire: My Stats :
 
