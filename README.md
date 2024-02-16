@@ -1,7 +1,6 @@
 <h1 align="center">Hi👋</h1>
 
 <p align="center">
-  <a href="https://github.com/Khaledelabady11"><img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg"></a>
   <a href="https://www.linkedin.com/in/khaledelabady"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg"></a>
   <a href="https://twitter.com/khaled_elabadyy"><img alt="Twitter" title="Twitter" height="48" width="48" src="assets/twitter.svg"></a>
 </p>
