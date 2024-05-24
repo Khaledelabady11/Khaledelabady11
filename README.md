@@ -1,4 +1,3 @@
-<h1 align="center">Hi👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/khaledelabady"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg"></a>
